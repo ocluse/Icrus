@@ -16,7 +16,7 @@ namespace Icrus.Discord
 {
     public class DiscordIcrus : CoreClient<DiscordIcrus>
     {
-        const string authToken = "ODU3MjU4MjY1MzEwMDAzMjMw.YNM9-Q.JeAJW0wqgtkqLSahHcAULm4pXn4";
+        const string authToken = "";
 
         private ClientWebSocket _ws;
 
